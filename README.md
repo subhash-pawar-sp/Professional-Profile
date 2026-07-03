@@ -113,6 +113,15 @@ Experienced IT professional with **8 years of experience** in Windows Administra
 
 ---
 
+## 📄 Resume
+
+Recruiters and hiring managers can view or download my latest resume below:
+
+- 📄 **[View Resume](https://github.com/subhash-pawar-sp/Professional-Profile/blob/main/Subhash_Pawar_Resume.pdf)**
+- ⬇️ **[Download Resume](https://raw.githubusercontent.com/subhash-pawar-sp/Professional-Profile/main/Subhash_Pawar_Resume.pdf)**
+
+---
+
 ## 📫 Contact
 
 - 📧 Email: subhash.617@rediffmail.com  
@@ -122,4 +131,4 @@ Experienced IT professional with **8 years of experience** in Windows Administra
 
 ---
 
-⭐ Open to opportunities in Windows Administration / M365 /Azure roles
+⭐ Open to opportunities in **Windows Administration | Microsoft 365 | Azure Administrator** roles.
