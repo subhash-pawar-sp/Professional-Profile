@@ -1,47 +1,38 @@
 # 👋 Hi, I'm Subhash Pawar
 
-## 💼 Windows | Microsoft 365 | Azure Administrator
+## 💼 Windows Administrator | Microsoft 365 Administrator | Azure Virtual Desktop (AVD) | Azure Administrator (AZ-104)
 
-Experienced IT professional with **8 years of experience** in Windows Administration, Microsoft 365, and Azure cloud services.
-
----
-
-## 🚀 About Me
-
-- 🔹 Windows Server Administration (AD, DNS, DHCP, GPO)
-- 🔹 Microsoft 365 Administration (Exchange Online, Teams, SharePoint, OneDrive)
-- 🔹 Azure Administrator (AZ-104 Certified)
-- 🔹 Azure Virtual Desktop (AVD)
-- 🔹 Intune, SCCM, WSUS
-- 🔹 IT Infrastructure & End User Support
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AZ-104 Certified](https://img.shields.io/badge/AZ--104-Certified-green?style=for-the-badge)
 
 ---
 
-## ☁ Cloud & Technologies
+## 👨‍💻 Professional Summary
 
-- Azure Virtual Machines
-- Azure Virtual Desktop (AVD)
-- Azure Networking (VNet, NSG)
-- Azure Active Directory (Entra ID)
-- Microsoft Intune
-- Exchange Online
-- Active Directory
+Experienced IT Infrastructure Professional with **8 years of experience** in Windows Server Administration, Microsoft 365, and Microsoft Azure cloud environments.
+
+Skilled in designing, deploying, and managing enterprise IT infrastructure including **Active Directory, DNS, DHCP, GPO, Exchange Online, Azure Virtual Desktop (AVD), WSUS, Intune, SCCM, and enterprise security operations**.
+
+Microsoft Certified: **Azure Administrator Associate (AZ-104)**
 
 ---
 
-## 📜 Certifications
+## 🚀 Key Strengths
 
-- Microsoft Certified: Azure Administrator Associate (AZ-104)
-
----
-
-## 💼 Experience
-
-- Windows Server Administration
-- Microsoft 365 Administration
-- Azure Cloud Administration
-- Enterprise IT Support (L1/L2/L3)
-- SLA & Incident Management
+- Windows Server Administration (AD, DNS, DHCP, GPO)
+- Microsoft 365 Administration (Exchange Online, Teams, SharePoint, OneDrive)
+- Azure Administration (VMs, Storage, Networking, Monitor)
+- Azure Virtual Desktop (AVD) Deployment & Management
+- Active Directory & Microsoft Entra ID (Azure AD)
+- SCCM & WSUS Patch Management
+- Microsoft Intune (Basic Device Management)
+- Endpoint Security, Firewall & Antivirus Administration
+- PowerShell (Basic Automation)
+- ITIL Processes, SLA & Incident Management
+- Vendor Coordination (AMC), PR/PO & IT Asset Management
 
 ---
 
@@ -53,82 +44,112 @@ Experienced IT professional with **8 years of experience** in Windows Administra
 📅 Current Role | Ongoing  
 📍 Enterprise IT Environment
 
-- Managed Active Directory (AD) user lifecycle including creation, modification, deletion, and access management  
-- Administered Group Policy Objects (GPO) for enforcing system and security policies across domain-joined systems  
-- Managed Organizational Units (OUs), security groups, and access permissions for enterprise users  
-- Performed password resets, account unlocks, and resolved user access-related issues  
-- Supported identity and access management aligned with organizational security standards  
-
-- Administered Microsoft 365 services including Exchange Online, Teams, OneDrive, and SharePoint  
-- Managed user provisioning, license assignment, and de-provisioning in Microsoft 365 Admin Center  
-- Troubleshot email flow, mailbox access, and synchronization issues  
-- Supported Microsoft Teams collaboration, meeting policies, and user communication tools  
-- Implemented and supported Multi-Factor Authentication (MFA) and security controls  
-
-- Managed endpoint security including centralized antivirus administration and policy enforcement  
-- Supported firewall administration for network security and access control policies  
-- Assisted in system patching, endpoint protection, and security compliance activities  
-
-- Coordinated with AMC vendors for hardware/software support and maintenance activities  
-- Handled PR/PO processes including vendor coordination, purchase requests, and approvals  
-- Maintained IT asset tracking and supported procurement-related documentation  
-- Ensured SLA compliance and smooth IT operations in coordination with internal teams and vendors  
+- Managed Active Directory (AD) user lifecycle, including provisioning, modification, and access management
+- Administered AD services including GPO, OUs, DNS, DHCP, and security groups
+- Performed account management tasks such as password resets, unlocks, and access troubleshooting
+- Supported identity and access management aligned with security policies
+- Managed Microsoft 365 services (Exchange Online, Teams, OneDrive, SharePoint)
+- Handled user provisioning, license management, MFA configuration, and mailbox troubleshooting
+- Supported collaboration tools and resolved email and synchronization issues
+- Managed endpoint security, antivirus policies, system patching, and compliance activities
+- Supported firewall policies and overall network security controls
+- Coordinated vendor (AMC) support, IT asset management, and procurement activities
+- Ensured SLA compliance and smooth IT infrastructure operations
+  
 ---
 
-### ☁ Azure Virtual Desktop (AVD) Deployment & Management
-📅 May 2024 – Dec 2025  
-📍 Internal / Organizational Project
+### 🔷 Azure Virtual Desktop (AVD) Deployment & Management
+- Designed and managed Azure Virtual Desktop environments for enterprise users  
+- Configured Host Pools, Session Hosts, Application Groups, and Workspaces  
+- Implemented Azure Active Directory authentication and RBAC  
+- Configured FSLogix profile containers using Azure Files  
+- Monitored performance using Azure Monitor and Log Analytics  
+- Resolved login, session, and performance issues  
+- Optimized cost and virtual machine resource utilization  
 
-- Configured and managed Azure Virtual Desktop (AVD) environment including Host Pools, Session Hosts, Application Groups, and Workspaces  
-- Implemented secure user access using Azure Active Directory and Role-Based Access Control (RBAC)  
-- Configured FSLogix profile containers using Azure Files for user profile management  
-- Monitored system performance and usage using Azure Monitor and Log Analytics  
-- Performed user session monitoring and resolved login and connectivity issues  
-- Managed application deployment and configuration on virtual desktops  
-- Optimized virtual machine performance and supported cost optimization initiatives  
 ---
 
-### ☁ Azure Infrastructure & Virtual Machine Management
-📅 May 2023 – Oct 2024  
-📍 Internal IT Infrastructure
-
-- Deployed and managed Azure Virtual Machines, storage accounts, and networking components  
-- Configured Virtual Networks (VNets), subnets, and Network Security Groups (NSG)  
-- Implemented Role-Based Access Control (RBAC) and Multi-Factor Authentication (MFA)  
+### 🔷 Azure Infrastructure & Virtual Machine Management
+- Managed Azure Virtual Machines and storage resources  
+- Configured Virtual Networks (VNets), Subnets, and Network Security Groups (NSGs)  
+- Implemented RBAC and Multi-Factor Authentication (MFA)  
 - Performed monitoring using Azure Monitor and Log Analytics  
-- Managed disk utilization, resource optimization, and cost control  
-- Used Azure Portal and PowerShell for administrative automation and management tasks  
+- Managed backup, performance, and cost optimization  
+- Used Azure Portal and PowerShell for administration  
 
 ---
 
-### 💼 Microsoft 365 & Active Directory Administration
-📅 May 2023 – Sep 2024  
-📍 Enterprise IT Environment (Pune)
-
-- Administered Microsoft 365 services including Exchange Online, Teams, OneDrive, and SharePoint  
-- Managed user provisioning, license assignment, and access control using Active Directory  
-- Implemented security controls including Multi-Factor Authentication (MFA) and endpoint protection  
-- Configured Group Policies (GPO) for system and user-level management  
-- Provided L2/L3 technical support ensuring SLA compliance and issue resolution  
-
----
-
-## 📄 Resume
-
-Recruiters and hiring managers can view or download my latest resume below:
-
-- 📄 **[View Resume](https://github.com/subhash-pawar-sp/Professional-Profile/blob/main/Subhash_Pawar_Resume.pdf)**
-- ⬇️ **[Download Resume](https://raw.githubusercontent.com/subhash-pawar-sp/Professional-Profile/main/Subhash_Pawar_Resume.pdf)**
+### 🔷 Microsoft 365 & Active Directory Administration
+- Managed Microsoft 365 services (Exchange Online, Teams, SharePoint, OneDrive)  
+- Handled user provisioning, licensing, and lifecycle management  
+- Administered Active Directory users, groups, and Organizational Units (OUs)  
+- Configured Group Policy Objects (GPO)  
+- Supported Microsoft Entra ID (Azure AD) administration  
+- Implemented MFA and security policies  
+- Resolved mailbox, Teams, and user access issues  
 
 ---
 
-## 📫 Contact
-
-- 📧 Email: subhash.617@rediffmail.com  
-- 📱 Phone: +91-8329960160  
-- 🔗 LinkedIn: https://linkedin.com/in/subhashbpawar  
-- 💻 Portfolio: https://github.com/subhash-pawar-sp/Professional-Profile
+### 🔷 IT Infrastructure & Operations Management
+- Managed Windows Server environments in enterprise setup  
+- Administered DNS and DHCP services for network operations  
+- Managed centralized antivirus and endpoint security solutions  
+- Supported firewall and VPN administration  
+- Performed patch management using SCCM and WSUS  
+- Coordinated AMC vendor support activities  
+- Managed IT asset tracking and procurement (PR/PO process)  
+- Ensured SLA compliance and incident resolution  
 
 ---
 
-⭐ Open to opportunities in **Windows Administration | Microsoft 365 | Azure Administrator** roles.
+## 🛠 Technical Skills
+
+**Microsoft Technologies:**  
+Windows Server • Active Directory • GPO • DNS • DHCP • Exchange Online • Teams • SharePoint • OneDrive • Microsoft Entra ID • Intune  
+
+**Infrastructure & Security:**  
+SCCM • WSUS • Firewall • VPN • Endpoint Security • BitLocker • Centralized Antivirus  
+
+**IT Operations:**  
+ITIL • SLA Management • Vendor Coordination • AMC Management • PR/PO • IT Asset Management  
+
+**Microsoft Azure:**  
+Azure Virtual Desktop • Azure Virtual Machines • Azure Storage • VNets • NSG • Azure Monitor • Log Analytics • Azure Backup • RBAC • MFA  
+
+---
+
+## 🏆 Certification
+
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+
+---
+
+## 🎯 Career Objective
+
+Seeking opportunities as a **Windows Administrator / Microsoft 365 Administrator / Azure Virtual Desktop Engineer / Azure Administrator**, contributing strong enterprise infrastructure and cloud administration expertise.
+
+---
+
+## 📫 Contact Information
+
+📧 Email: subhash.617@rediffmail.com  
+📱 Phone: +91 8329960160  
+📍 Location: Pune, Maharashtra, India  
+
+🔗 LinkedIn: https://linkedin.com/in/subhashbpawar  
+🌐 Portfolio: https://github.com/subhash-pawar-sp/Professional-Profile
+
+---
+
+## ⭐ Open to Opportunities
+
+- Windows Administrator
+- Microsoft 365 Administrator 
+- Infrastructure Engineer   
+- Azure Administrator  
+- Azure Virtual Desktop Engineer  
+- Cloud Support Engineer  
+
+---
+
+⭐ Thank you for visiting my profile!
