@@ -118,7 +118,7 @@ Experienced IT professional with **8 years of experience** in Windows Administra
 - 📧 Email: subhash.617@rediffmail.com  
 - 📱 Phone: +91-8329960160  
 - 🔗 LinkedIn: https://linkedin.com/in/subhashbpawar  
-- 💻 Portfolio: https://github.com/subhash-pawar-sp  
+- 💻 Portfolio: https://github.com/subhash-pawar-sp/Professional-Profile
 
 ---
 
