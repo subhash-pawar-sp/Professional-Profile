@@ -41,7 +41,7 @@ Microsoft Certified: **Azure Administrator Associate (AZ-104)**
 ---
 
 ### 🪪 Active Directory, Microsoft 365 & IT Operations Support
-📅 Current Role | Ongoing  
+📅 Sr. Engineer | Ongoing  
 📍 Enterprise IT Environment
 
 - Managed Active Directory (AD) user lifecycle, including provisioning, modification, and access management
@@ -58,24 +58,17 @@ Microsoft Certified: **Azure Administrator Associate (AZ-104)**
   
 ---
 
-### 🔷 Azure Virtual Desktop (AVD) Deployment & Management
-- Designed and managed Azure Virtual Desktop environments for enterprise users  
-- Configured Host Pools, Session Hosts, Application Groups, and Workspaces  
-- Implemented Azure Active Directory authentication and RBAC  
-- Configured FSLogix profile containers using Azure Files  
-- Monitored performance using Azure Monitor and Log Analytics  
-- Resolved login, session, and performance issues  
-- Optimized cost and virtual machine resource utilization  
-
----
-
-### 🔷 Azure Infrastructure & Virtual Machine Management
-- Managed Azure Virtual Machines and storage resources  
-- Configured Virtual Networks (VNets), Subnets, and Network Security Groups (NSGs)  
-- Implemented RBAC and Multi-Factor Authentication (MFA)  
-- Performed monitoring using Azure Monitor and Log Analytics  
-- Managed backup, performance, and cost optimization  
-- Used Azure Portal and PowerShell for administration  
+### 🔷 Azure & Microsoft 365 Migration Project
+📅 Desktop Support Engineer L2 | Completed 
+- Planned and executed Azure and Microsoft 365 migration projects, ensuring minimal business disruption.
+- Migrated user accounts, Exchange mailboxes, and endpoint devices to Microsoft 365.
+- Configured and managed Microsoft Entra ID (formerly Azure Active Directory), including tenant setup, directory synchronization, and identity management.
+- Performed domain migration, DNS updates, and email cutover with minimal downtime.
+- Administered Microsoft 365 services, including Exchange Online, Microsoft Teams, SharePoint Online, and OneDrive for Business.
+- Implemented security features such as Multi-Factor Authentication (MFA), Conditional Access policies, and security best practices.
+- Monitored migration progress, validated data integrity, and resolved post-migration issues.
+- Provided end-user support, troubleshooting, and documentation during and after migration activities.
+- Collaborated with infrastructure, networking, and security teams to ensure successful project delivery.  
 
 ---
 
