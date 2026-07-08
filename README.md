@@ -60,6 +60,7 @@ Microsoft Certified: **Azure Administrator Associate (AZ-104)**
 
 ### 🔷 Azure & Microsoft 365 Migration Project
 📅 Desktop Support Engineer L2 | Completed 
+
 - Planned and executed Azure and Microsoft 365 migration projects, ensuring minimal business disruption.
 - Migrated user accounts, Exchange mailboxes, and endpoint devices to Microsoft 365.
 - Configured and managed Microsoft Entra ID (formerly Azure Active Directory), including tenant setup, directory synchronization, and identity management.
@@ -73,6 +74,8 @@ Microsoft Certified: **Azure Administrator Associate (AZ-104)**
 ---
 
 ### 🔷 Microsoft 365 & Active Directory Administration
+📅 Desktop Engineer | Completed 
+
 - Managed Microsoft 365 services (Exchange Online, Teams, SharePoint, OneDrive)  
 - Handled user provisioning, licensing, and lifecycle management  
 - Administered Active Directory users, groups, and Organizational Units (OUs)  
@@ -84,6 +87,8 @@ Microsoft Certified: **Azure Administrator Associate (AZ-104)**
 ---
 
 ### 🔷 IT Infrastructure & Operations Management
+📅 System Support Engineer | Completed 
+
 - Managed Windows Server environments in enterprise setup  
 - Administered DNS and DHCP services for network operations  
 - Managed centralized antivirus and endpoint security solutions  
