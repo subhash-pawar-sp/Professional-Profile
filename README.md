@@ -41,7 +41,7 @@ Microsoft Certified: **Azure Administrator Associate (AZ-104)**
 ---
 
 ### 🪪 Active Directory, Microsoft 365 & IT Operations Support
-📅 Sr. Engineer | Ongoing  
+📅 Sr. Engineer | Completed  
 📍 Enterprise IT Environment
 
 - Managed Active Directory (AD) user lifecycle, including provisioning, modification, and access management
