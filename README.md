@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Professional Summary
 
-Experienced IT Infrastructure Professional with **8 years of experience** in Windows Server Administration, Microsoft 365, and Microsoft Azure cloud environments.
+Experienced IT Infrastructure Professional with **8 years of experience** in Active Directory Administration, Microsoft 365, and Microsoft Azure cloud environments.
 
 Skilled in designing, deploying, and managing enterprise IT infrastructure including **Active Directory, DNS, DHCP, GPO, Exchange Online, Azure Virtual Desktop (AVD), WSUS, Intune, SCCM, and enterprise security operations**.
 
@@ -24,15 +24,15 @@ Microsoft Certified: **Azure Administrator Associate (AZ-104)**
 
 - Windows Server Administration (AD, DNS, DHCP, GPO)
 - Microsoft 365 Administration (Exchange Online, Teams, SharePoint, OneDrive)
+- SCCM & WSUS Patch Management
+- ITIL Processes, SLA & Incident Management
+- Vendor Coordination (AMC), PR/PO & IT Asset Management
+- Endpoint Security, Firewall & Antivirus Administration
+- PowerShell (Basic Automation)
+- Microsoft Intune (Basic Device Management)
 - Azure Administration (VMs, Storage, Networking, Monitor)
 - Azure Virtual Desktop (AVD) Deployment & Management
 - Active Directory & Microsoft Entra ID (Azure AD)
-- SCCM & WSUS Patch Management
-- Microsoft Intune (Basic Device Management)
-- Endpoint Security, Firewall & Antivirus Administration
-- PowerShell (Basic Automation)
-- ITIL Processes, SLA & Incident Management
-- Vendor Coordination (AMC), PR/PO & IT Asset Management
 
 ---
 
