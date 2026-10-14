@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Subhash Pawar
 
-## 💼 Windows Administrator | Microsoft 365 Administrator | Azure Virtual Desktop (AVD) | Azure Administrator (AZ-104)
+## 💼 Active Directory Administrator | Microsoft 365 Administrator | Azure Virtual Desktop (AVD) | Azure Administrator (AZ-104)
 
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge)
